@@ -5,4 +5,4 @@
 
 cd ~/Library/Application\ Support/PremiumSoft\ CyberTech/Navicat\ CC/Navicat\ Premium/
 ls -lah
-rm -rf .*
+rm -rf ./*
